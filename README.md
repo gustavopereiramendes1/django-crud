@@ -16,4 +16,4 @@ A simple CRUD (Create, Read, Update, Delete) application built with Django.
 ## 📌 Installation & Setup
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/gustavopereiramendes1/django-crud.git
