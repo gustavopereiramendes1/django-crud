@@ -11,7 +11,6 @@ A simple CRUD (Create, Read, Update, Delete) application built with Django.
 ## 🛠️ Technologies Used
 - Python 🐍
 - Django 🕸️
-- HTML, CSS 🎨
 - SQLite 🗄️
 
 ## 📌 Installation & Setup
